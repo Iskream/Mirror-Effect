@@ -61,7 +61,7 @@ if (!SpeechRecognition) {
     }
 
     if (respostaNao && !respostaSim) {
-      redirecionar("nó4.1.html");
+      redirecionar("4.1.html");
       return;
     }
   }
